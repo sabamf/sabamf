@@ -1,0 +1,153 @@
+
+.bg-pink {
+    background-color: #F88379;
+    height: 8vh;
+    background-size: cover;
+}
+
+.text-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.text {
+    font-size: 20px;
+    font-family: "Times New Roman";
+    color: black;
+    margin: 10px;
+}
+
+.text-img {
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+}
+
+.bg-Restaurant {
+    background-image: linear-gradient(to right, #f7ef8a, #faa775, #e56a45);
+    height: 50vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Restaurant-text {
+    font-family: "Times New Roman";
+    margin: 20px;
+    width: 50vh;
+}
+
+.text-heading {
+    color: black;
+    font-weight: 500;
+}
+
+.text-para {
+    font-weight: 300;
+}
+
+.text-button {
+    height: 30px;
+    width: 130px;
+    background-color: #ff9999;
+    color: white;
+    border-width: 0px;
+}
+
+.Restaurant-img {
+    height: 50vh;
+    width: 50vw;
+}
+
+.bg-Restaurant-img {
+    background-image: linear-gradient(to right, #f7ef8a, #faa775, #e56a45);
+    height: 70vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.imaage-container {
+    width: 50vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20px;
+}
+
+.col-img {
+    height: 50vh;
+    width: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.row-img {
+    height: 50vh;
+    width: 50vw;
+}
+
+.img-1 {
+    margin-bottom: 10px;
+    height: 150px;
+    width: 150px;
+}
+
+.img-2 {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+.img-3 {
+    height: 320px;
+    width: 150px;
+}
+
+.Restaurant-logo {
+    background-color: #F88379;
+    height: 30vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: "Times New Roman";
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.logo-text {
+    font-size: 12px;
+    font-weight: 300;
+    margin: 10px;
+}
+
+.logo-head {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.logo-link {
+    display: flex;
+    flex-direction: row;
+}
+
+.para {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+}
+
+.para-img {
+    height: 20px;
+    width: 20px;
+    margin-top: 10px;
+}
